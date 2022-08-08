@@ -141,6 +141,15 @@ Functions</h2></td></tr>
 <tr class="memitem:ac5803413618fcfb922cb32c6db0fc864"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#ac5803413618fcfb922cb32c6db0fc864">cylinder_surface_area</a> (T radius, T <a class="el" href="../../d8/dee/avltree_8cpp.html#ae4a66d8b0c2b0d626aea45977e358c83">height</a>)</td></tr>
 <tr class="memdesc:ac5803413618fcfb922cb32c6db0fc864"><td class="mdescLeft">&#160;</td><td class="mdescRight">surface area of a <a href="https://en.wikipedia.org/wiki/Cylinder" target="_blank">cylinder</a> (2 * pi * r * h + 2 * pi * r^2)  <a href="../../dd/d47/namespacemath.html#ac5803413618fcfb922cb32c6db0fc864">More...</a><br /></td></tr>
 <tr class="separator:ac5803413618fcfb922cb32c6db0fc864"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24ca6883661753daf1a3fe8e38078843"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#a24ca6883661753daf1a3fe8e38078843">gcd</a> (int a, int b)</td></tr>
+<tr class="memdesc:a24ca6883661753daf1a3fe8e38078843"><td class="mdescLeft">&#160;</td><td class="mdescRight">find GCD using Euclid's algorithm  <a href="../../dd/d47/namespacemath.html#a24ca6883661753daf1a3fe8e38078843">More...</a><br /></td></tr>
+<tr class="separator:a24ca6883661753daf1a3fe8e38078843"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98f1cd50ffaaef898dc718d73203526c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#a98f1cd50ffaaef898dc718d73203526c">findSmallestX</a> (int a, int b)</td></tr>
+<tr class="memdesc:a98f1cd50ffaaef898dc718d73203526c"><td class="mdescLeft">&#160;</td><td class="mdescRight">find smallest value of x that satisfy "ax - by = 0" ax - by = ax = by ==&gt; x/y = b/a  <a href="../../dd/d47/namespacemath.html#a98f1cd50ffaaef898dc718d73203526c">More...</a><br /></td></tr>
+<tr class="separator:a98f1cd50ffaaef898dc718d73203526c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac544534c341d949d5bc5eb99992cdf32"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#ac544534c341d949d5bc5eb99992cdf32">findSmallestY</a> (int a, int b)</td></tr>
+<tr class="memdesc:ac544534c341d949d5bc5eb99992cdf32"><td class="mdescLeft">&#160;</td><td class="mdescRight">find smallest value of y that satisfy "ax - by = 0"  <a href="../../dd/d47/namespacemath.html#ac544534c341d949d5bc5eb99992cdf32">More...</a><br /></td></tr>
+<tr class="separator:ac544534c341d949d5bc5eb99992cdf32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aec65db4e5c7317323227f026fe50ef11"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11">integral_approx</a> (double lb, double ub, const <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/utility/functional/function.html">std::function</a>&lt; double(double)&gt; &amp;func, double delta=.0001)</td></tr>
 <tr class="memdesc:aec65db4e5c7317323227f026fe50ef11"><td class="mdescLeft">&#160;</td><td class="mdescRight">Computes integral approximation.  <a href="../../dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11">More...</a><br /></td></tr>
 <tr class="separator:aec65db4e5c7317323227f026fe50ef11"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -234,6 +243,7 @@ Functions</h2></td></tr>
 <p >Evaluate recurrence relation using <a href="https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/" target="_blank">matrix exponentiation</a>.</p>
 <p >for assert</p>
 <p >Math algorithms.</p>
+<p >Mathematical algorithms.</p>
 <p >for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a></p>
 <p >for IO operations</p>
 <p >for M_PI definition and pow()</p>
@@ -245,6 +255,7 @@ Functions</h2></td></tr>
 <p >Mathematical algorithms</p>
 <p >for assert for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> and <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a></p>
 <p >Mathematical algorithms</p>
+<p >To find the smallest values of x and y that satisfy ax - by = 0</p>
 <p >for assert for mathematical functions for passing in functions</p>
 <p >Mathematical functions</p>
 <p >for math functions for fixed size data types for time to initialize rng for function pointers for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> for random number generation for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a></p>
@@ -723,6 +734,152 @@ template&lt;typename T &gt; </div>
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/d47/namespacemath_abde24398be43538c62e4a496968e60ca_cgraph.svg" width="284" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a98f1cd50ffaaef898dc718d73203526c" name="a98f1cd50ffaaef898dc718d73203526c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98f1cd50ffaaef898dc718d73203526c">&#9670;&nbsp;</a></span>findSmallestX()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int math::findSmallestX </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>a</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>b</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>find smallest value of x that satisfy "ax - by = 0" ax - by = ax = by ==&gt; x/y = b/a </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">a</td><td>and b is 2 random positive integers </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>value x </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordtype">int</span> g = <a class="code hl_function" href="../../d4/da0/gcd__iterative__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e">gcd</a>(a, b);</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keywordtype">int</span> x = b / g;</div>
+<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno">   41</span>    }</div>
+<div class="ttc" id="agcd__iterative__euclidean_8cpp_html_ae48807fa2b7000afae599e67f327545e"><div class="ttname"><a href="../../d4/da0/gcd__iterative__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e">gcd</a></div><div class="ttdeci">int gcd(int num1, int num2)</div><div class="ttdef"><b>Definition:</b> gcd_iterative_euclidean.cpp:15</div></div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/d47/namespacemath_a98f1cd50ffaaef898dc718d73203526c_cgraph.svg" width="279" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="ac544534c341d949d5bc5eb99992cdf32" name="ac544534c341d949d5bc5eb99992cdf32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac544534c341d949d5bc5eb99992cdf32">&#9670;&nbsp;</a></span>findSmallestY()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int math::findSmallestY </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>a</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>b</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>find smallest value of y that satisfy "ax - by = 0" </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">a</td><td>and b is 2 random positive integers </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>value y </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordtype">int</span> g = <a class="code hl_function" href="../../d4/da0/gcd__iterative__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e">gcd</a>(a, b);</div>
+<div class="line"><span class="lineno">   51</span>        <span class="keywordtype">int</span> y = a / g;</div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> y;</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/d47/namespacemath_ac544534c341d949d5bc5eb99992cdf32_cgraph.svg" width="279" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a24ca6883661753daf1a3fe8e38078843" name="a24ca6883661753daf1a3fe8e38078843"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24ca6883661753daf1a3fe8e38078843">&#9670;&nbsp;</a></span>gcd()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int math::gcd </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>a</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>b</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>find GCD using Euclid's algorithm </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">a</td><td>and b is 2 random positive integers </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>GCD value </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   21</span>    {</div>
+<div class="line"><span class="lineno">   22</span>        <span class="keywordflow">if</span> (b == 0){</div>
+<div class="line"><span class="lineno">   23</span>            <span class="keywordflow">return</span> a;</div>
+<div class="line"><span class="lineno">   24</span>        }</div>
+<div class="line"><span class="lineno">   25</span>        <span class="keywordflow">return</span> (<a class="code hl_function" href="../../d4/da0/gcd__iterative__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e">gcd</a>(b, a % b));</div>
+<div class="line"><span class="lineno">   26</span>    }</div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/d47/namespacemath_a24ca6883661753daf1a3fe8e38078843_cgraph.svg" width="91" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
