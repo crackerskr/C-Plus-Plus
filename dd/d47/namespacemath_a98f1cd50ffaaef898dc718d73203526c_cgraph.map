@@ -1,4 +1,4 @@
 <map id="math::findSmallestX" name="math::findSmallestX">
-<area shape="rect" id="node1" title="find smallest value of x that satisfy &quot;ax &#45; by = 0&quot; ax &#45; by = ax = by ==&gt; x/y = b/a" alt="" coords="5,29,145,56"/>
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a24ca6883661753daf1a3fe8e38078843" title="find GCD using Euclid&#39;s algorithm" alt="" coords="193,29,273,56"/>
+<area shape="rect" id="node1" title="find smallest value of x that satisfy &quot;ax &#45; by = 0&quot; ax &#45; by = ax = by ==&gt; x/y = b/a" alt="" coords="5,29,145,55"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a24ca6883661753daf1a3fe8e38078843" title="find GCD using Euclid&#39;s algorithm" alt="" coords="193,29,273,55"/>
 </map>
