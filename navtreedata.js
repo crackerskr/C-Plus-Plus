@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md101", null ],
-      [ "Features", "index.html#autotoc_md102", null ],
-      [ "Documentation", "index.html#autotoc_md103", null ],
-      [ "Contributions", "index.html#autotoc_md104", null ]
+      [ "Overview", "index.html#autotoc_md100", null ],
+      [ "Features", "index.html#autotoc_md101", null ],
+      [ "Documentation", "index.html#autotoc_md102", null ],
+      [ "Contributions", "index.html#autotoc_md103", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
@@ -78,22 +78,21 @@ var NAVTREE =
       [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
       [ "Divide And Conquer", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
       [ "Dynamic Programming", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
-      [ "<a href=\"https://github.com/TheAlgorithms/C-Plus-Plus/blob/master//find_smallest_x_and_y_in_algebra.cpp\" target=\"_blank\" >Find Smallest X And Y In Algebra</a>", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
-      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
-      [ "Graph", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
-      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
-      [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
-      [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
-      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
-      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
-      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
-      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
-      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
-      [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
-      [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
-      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ],
-      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md65", null ]
+      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
+      [ "Graph", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
+      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
+      [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
+      [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
+      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
+      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
+      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
+      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
+      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
+      [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
+      [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
+      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
+      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
     [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
@@ -142,14 +141,14 @@ var NAVTREEINDEX =
 "d1/d9e/prefix__sum__array_8cpp.html#a7c8fd967c36dbba5fdf9c71faed604cf",
 "d3/d80/z__function_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
 "d4/ded/namespaceprobability.html",
-"d6/d26/house__robber_8cpp.html#a1e497c3e3f169afe5baaae6a5d40cbc8",
-"d7/d7c/classstatistics_1_1stats__computer1.html#af57e942d49f4fd70f059f224b4ac07e1",
-"d8/dc8/struct_point.html#afa38be143ae800e6ad69ce8ed4df62d8",
-"da/d4b/depth__first__search__with__stack_8cpp.html#aadebe9c855821d6515ca5b171222ef7b",
-"db/d9a/classuint128__t.html#a75767cb2b6fd47ecb1f721755fdc7639",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a2753b6053b8c86c5bd987a44fdfa0a57",
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a1c0d27198372b36ef71bc58af8336b9c",
-"globals_func_r.html"
+"d6/d26/house__robber_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d7/d7f/section.html",
+"d8/dcc/binary__insertion__sort_8cpp.html",
+"da/d4b/depth__first__search__with__stack_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"db/d9a/classuint128__t.html#a7737bb30a5480c7286546b911d82e696",
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a28944bb16ec22650b47fe3e80e3e13f8",
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a2e683b271d8d5cd63e0d09cf8aaa325c",
+"globals_func_s.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

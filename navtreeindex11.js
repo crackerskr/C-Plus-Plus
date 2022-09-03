@@ -1,6 +1,5 @@
 var NAVTREEINDEX11 =
 {
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a2753b6053b8c86c5bd987a44fdfa0a57":[10,0,1,5,0,10],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a28944bb16ec22650b47fe3e80e3e13f8":[10,0,1,5,0,20],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a306a30931f54c84098b38d6bc8f4a956":[10,0,1,5,0,15],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a441cbee9896391f2b167d5aa7b4f8c95":[10,0,1,5,0,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX11 =
 "de/dcf/binary__exponent_8cpp.html#a31dbf5f7ceb9c9eec831ef9f7782291f":[11,0,13,3,1],
 "de/dcf/binary__exponent_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,3,2],
 "de/dcf/binary__exponent_8cpp.html#aeb48dce0725e63d19147944f41843c73":[11,0,13,3,0],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html":[10,0,8,2,0]
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html":[10,0,8,2,0],
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a1c0d27198372b36ef71bc58af8336b9c":[10,0,8,2,0,6]
 };
