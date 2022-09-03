@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a1c0d27198372b36ef71bc58af8336b9c":[10,0,8,2,0,6],
 "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a2e683b271d8d5cd63e0d09cf8aaa325c":[10,0,8,2,0,3],
 "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a534645d1aabdf1a7e5897c85376f173d":[10,0,8,2,0,2],
 "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a5cf972a2c994a4fa1a89fc77bd5ad503":[10,0,8,2,0,5],
@@ -105,8 +106,8 @@ var NAVTREEINDEX12 =
 "df/d94/subarray__sum_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,0,7,2],
 "df/d94/subarray__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,0,7,0],
 "df/d94/subarray__sum_8cpp.html#af5687bbd9faf927fbd363c71e0baba5e":[11,0,0,7,1],
-"df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[10,0,15,5],
 "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[9,0,104,5],
+"df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[10,0,15,5],
 "df/dc8/successive__approximation_8cpp.html":[11,0,14,22],
 "df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[11,0,14,22,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,14,22,2],
@@ -175,8 +176,8 @@ var NAVTREEINDEX12 =
 "functions_d.html":[10,3,0,4],
 "functions_e.html":[10,3,0,5],
 "functions_f.html":[10,3,0,6],
-"functions_func.html":[10,3,1],
 "functions_func.html":[10,3,1,0],
+"functions_func.html":[10,3,1],
 "functions_func_a.html":[10,3,1,1],
 "functions_func_b.html":[10,3,1,2],
 "functions_func_c.html":[10,3,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "globals_func_n.html":[11,1,1,13],
 "globals_func_o.html":[11,1,1,14],
 "globals_func_p.html":[11,1,1,15],
-"globals_func_q.html":[11,1,1,16],
-"globals_func_r.html":[11,1,1,17]
+"globals_func_q.html":[11,1,1,16]
 };

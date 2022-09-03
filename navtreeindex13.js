@@ -1,5 +1,6 @@
 var NAVTREEINDEX13 =
 {
+"globals_func_r.html":[11,1,1,17],
 "globals_func_s.html":[11,1,1,18],
 "globals_func_t.html":[11,1,1,19],
 "globals_func_u.html":[11,1,1,20],
@@ -25,10 +26,10 @@ var NAVTREEINDEX13 =
 "hierarchy.html":[10,2],
 "index.html":[],
 "index.html":[0],
-"index.html#autotoc_md100":[0,0],
-"index.html#autotoc_md101":[0,1],
-"index.html#autotoc_md102":[0,2],
-"index.html#autotoc_md103":[0,3],
+"index.html#autotoc_md101":[0,0],
+"index.html#autotoc_md102":[0,1],
+"index.html#autotoc_md103":[0,2],
+"index.html#autotoc_md104":[0,3],
 "modules.html":[8],
 "namespacemembers.html":[9,1,0],
 "namespacemembers_func.html":[9,1,1],
