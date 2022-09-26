@@ -141,14 +141,14 @@ var NAVTREEINDEX =
 "d1/d9e/prefix__sum__array_8cpp.html#a7c8fd967c36dbba5fdf9c71faed604cf",
 "d3/d80/z__function_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
 "d4/ded/namespaceprobability.html",
-"d6/d26/house__robber_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"d7/d7f/section.html",
-"d8/dcc/binary__insertion__sort_8cpp.html",
-"da/d4b/depth__first__search__with__stack_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"db/d9a/classuint128__t.html#a7737bb30a5480c7286546b911d82e696",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a28944bb16ec22650b47fe3e80e3e13f8",
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a2e683b271d8d5cd63e0d09cf8aaa325c",
-"globals_func_s.html"
+"d6/d26/classciphers_1_1_hill_cipher.html#ae77cad522fa44b8c985779a7188d2f41",
+"d7/d7c/classstatistics_1_1stats__computer1.html#aa13bf7c38de112f71921a5525d71a2f2",
+"d8/db1/binomial__calculate_8cpp.html",
+"da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html#aaf762e88c66918d7afda4234f28a7ddf",
+"db/d9a/classuint128__t.html#a0a4623fae71566dfcf2e742c8c156798",
+"dd/d12/vigenere__cipher_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"de/d95/namespace_subsets.html",
+"functions_h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
